@@ -33,7 +33,7 @@ Aceitar Política de Cookies
     Wait Until Element Is Visible    xpath=//button[contains(text(), 'Entendi')]    timeout=10s
     Click Button                     xpath=//button[contains(text(), 'Entendi')]
 
-Digitar CEP e validar valores de frete
+Digitar CEP e validar valores de frete    #step para validar valores de frete não foi possível completar implementar.
     Input Text                  xpath=//input[@id='inputCalcularFrete']    ${CEP}
     Scroll Element Into View    xpath=//button[contains(text(), 'OK')]
     Execute JavaScript          document.evaluate("//button[contains(text(), 'OK')]", document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue.click();
