@@ -1,4 +1,4 @@
-# Um Projeto de Automação de Teste de API em Robot Framework
+# Um Projeto de Automação de Teste de FrontEnd em Robot Framework
 > Projeto para ajudar a criar um portfolio usando Robot Framework, Visual Studio Code, extensão TruePath, ChatGPT e navegador Chrome na versão 133 com compatibildade do Chromedriver na mesma versão.
 >
 > Por se tratar de uma versão inicial e com pouca experiência na tecnologia carece de ajustes na arquitetura do projeto e melhorias no código em busca de alcançar conjunto de boas práticas na escrita de software para obter uma maior legibilidade e manutenção.
