@@ -12,7 +12,7 @@
 ## Add your files
 ```
 cd existing_repo
-git remote add origin https://github.com/coniemenezes/teste-automatizado-em-robotframework.git
+git remote add origin https://github.com/thiago-testes/WebTesting.git
 git branch -M main
 git push -uf origin main
 ```
